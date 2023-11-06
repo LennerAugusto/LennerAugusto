@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lenner Augusto 👋
 
 - 📘 Graduando Sistemas Para internet - Instituto Federal de São Paulo.
-- 💻Dev em formação.
+- 💻​Estagiáro em desenvolvimento/teste - PENSE OPEN
 - 👨‍💻 Apaixonado por tecnologia e novos desafios.
 
 <div align="center">
@@ -11,13 +11,11 @@
 </div>
   
   <div style="display: inline_block">
-      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img  align="center" alt="Rafa-C#" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
       <img align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    
+      <img align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      
  </div>
   
 
