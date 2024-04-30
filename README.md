@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lenner Augusto 👋
 
 - 📘 Graduando Sistemas Para internet - Instituto Federal de São Paulo.
-- 💻​Estagiáro em desenvolvimento/teste - PENSE OPEN
+- 💻​Desenvolvedor Jr - PENSE OPEN
 - 👨‍💻 Apaixonado por tecnologia e novos desafios.
 
 <div align="center">
