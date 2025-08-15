@@ -13,9 +13,11 @@
   <div style="display: inline_block">
       <img  align="center" alt="Rafa-C#" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+      <img align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
       <img align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img align="center" alt="Rafa-C#" height="30" width="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%233FFDCA"></img>
+     <img  align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+    
  </div>
   
 
