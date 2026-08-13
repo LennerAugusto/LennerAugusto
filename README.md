@@ -8,10 +8,9 @@
 <div align="center">
   <a href="https://github.com">
     <img height="180em" src="https://vercel.app" alt="Lenner Stats"/>
-    <img height="180em" src="https://demolab.com" alt="GitHub Streak"/>
+    <img height="180em" src="https://vercel.app" alt="GitHub Streak"/>
   </a>
 </div>
-
 
 <br/>
 
