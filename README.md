@@ -5,10 +5,10 @@
 - 👨‍💻 Apaixonado por tecnologia e novos desafios.
 
 <div align="center">
-  <a href="https://github.com/LennerAugusto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LennerAugusto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Lenner Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LennerAugusto&layout=compact&langs_count=7&theme=github_dark" alt="Top Langs"/>
-  </a>
+<a href="https://github.com">
+  <img height="180em" src="https://herokuapp.com" alt="GitHub Streak"/>
+</a>
+
 </div>
 
 <br/>
