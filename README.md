@@ -4,12 +4,14 @@
 - 💻 Desenvolvedor .NET Jr - PENSE OPEN
 - 👨‍💻 Apaixonado por tecnologia e novos desafios.
 
-<div align="center">
-<a href="https://github.com">
-  <img height="180em" src="https://herokuapp.com" alt="GitHub Streak"/>
-</a>
 
+<div align="center">
+  <a href="https://github.com">
+    <img height="180em" src="https://vercel.app" alt="Lenner Stats"/>
+    <img height="180em" src="https://demolab.com" alt="GitHub Streak"/>
+  </a>
 </div>
+
 
 <br/>
 
